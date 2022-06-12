@@ -6,3 +6,6 @@
 5. Add Remote and paste link
 6. Give a name to Remote
 7. Publish Branch
+8. This is done upto push
+
+
